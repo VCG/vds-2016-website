@@ -1,0 +1,17 @@
+# Site settings
+title: "Visualization in Data Science (VDS at IEEE VIS 2016)"
+email: "webmaster@dbvis.de"
+description: "Visualization in Data Science (VDS at IEEE VIS 2016)"
+baseurl: "/2016"
+url: "http://visualdatascience.org"
+conferenceshort: "VDS 2016"
+conferencedate: "Monday, October 24th, 2016"
+
+deadline_submission: "August 5, 2016 5:00pm PDT"
+deadline_notification: "August 26, 2016"
+
+# Build settings
+markdown: kramdown
+
+collections:
+- talks
