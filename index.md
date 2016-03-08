@@ -17,12 +17,18 @@ Please use [contact@visualdatascience.org](mailto:contact@visualdatascience.org)
 Registration for VDS is included with registration for IEEE VIS and is handled through the [VIS website](http://ieeevis.org/).
 
 
-## Symposium Chairs
+
+
+## Chairs
+
+- [Luke Bornn](http://www.lukebornn.com/), Simon Fraser University
+- [Alexander Lex](http://alexander-lex.net), University of Utah
+- [Marc Streit](http://marc-streit.com), Johannes Kepler University Linz
+
+
+
+## Steering Committee
 
 - <a href="http://www.vis.uni-konstanz.de/mitglieder/keim/">Daniel Keim</a>, University of Konstanz
 - <a href="http://www.seas.harvard.edu/directory/pfister">Hanspeter Pfister</a>, Harvard University
 - <a href="http://vgc.poly.edu/~csilva/">Claudio Silva</a>, New York University
-
-## Program Chairs
-- [Alexander Lex](http://alexander-lex.net), University of Utah
-- [Marc Streit](http://marc-streit.com), Johannes Kepler University Linz
