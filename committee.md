@@ -4,7 +4,7 @@ title: Committee
 permalink: /committee/
 ---
 
-## Chairs
+### Chairs
 
 **[Luke Bornn](http://www.lukebornn.com/)**   
 Luke is an assistant professor of statistics at Simon Fraser University whose research is focused on high dimensional spatio-temporal data, with applications to environmental and climate modeling, optical tracking in sports, and structural health monitoring amongst others. He also works on the corresponding computational problems, mainly in the form of Monte Carlo methods.
@@ -17,7 +17,7 @@ Alex is an assistant professor of computer science at the Scientific Computing a
 
 
 
-## Steering Committee
+### Steering Committee
 
 - <a href="http://www.vis.uni-konstanz.de/mitglieder/keim/">Daniel Keim</a>, University of Konstanz
 - <a href="http://www.seas.harvard.edu/directory/pfister">Hanspeter Pfister</a>, Harvard University
