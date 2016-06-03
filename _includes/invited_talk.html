@@ -2,6 +2,11 @@
 {% if talk.key == include.key %}
 
 <div class="talk">
+
+    <div class="tportrait"><img src="{{ site.baseurl }}/images/speakers/{{talk.picture}}" alt="{{talk.speaker}}">
+
+        <div>{{talk.picture-note}}</div>
+    </div>
     <div class="ttitle">{{talk.title}}
         {% if talk.slides %}
         <span class="tspeaker" style="float: right;"><a href="{{ site.baseurl }}/files/{{talk.slides}}">Download
@@ -12,10 +17,7 @@
 
     <div><a href="{{ talk.website }}">{{ talk.website }}</a></div>
 
-    <div class="tportrait"><img src="{{ site.baseurl }}/images/speakers/{{talk.picture}}" alt="{{talk.speaker}}">
 
-        <div>{{talk.picture-note}}</div>
-    </div>
 
     <div class="tbioabstract">
 
