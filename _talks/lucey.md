@@ -3,7 +3,7 @@ key: lucey
 speaker: Patrick Lucey
 website: http://www.patricklucey.com/
 affiliation: STATS
-title: Interactive Sports Analytics &#58; Going Beyond Spreadsheets
+title: Interactive Sports Analytics&#58; Going Beyond Spreadsheets
 time:
 picture: lucey.jpg
 picture-note: 
