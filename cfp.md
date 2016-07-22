@@ -38,7 +38,7 @@ For inclusion on the website and for evaluation, please also submit:
  * a picture of the speaker (150 pixels wide, up to 250 pixels high)
  * for previously published work: the original paper. 
 
-To submit a paper please use the Precision Conference System (details will be provided at a later time). <!-- After logging in go to "new submissions" and select "Submit to Papers" for VDS 2015. -->
+To submit a paper please use the [Precision Conference System](https://precisionconference.com/~vds16/). After logging in go to "new submissions" and select "Submit to Papers" for VDS 2016.
 
 ### Important Dates
 

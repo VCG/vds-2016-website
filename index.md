@@ -2,6 +2,10 @@
 layout: home
 ---
 
+## Submission System Open!
+
+Contribute to VDS by submitting your abstract [here](https://precisionconference.com/~vds16/) (after logging in go to "new submissions" and select "Submit to Papers" for VDS 2016). For details, see the [Call for Participation]({{ page.url | prepend: site.baseurl }}/cfp/).
+
 ## Vision
 
 Transformations in many fields are enabled by rapid advances in our ability to acquire and generate data. The bottleneck to discovery is now our ability to analyze and make sense of heterogeneous, noisy, and often massive datasets. Extracting knowledge from this abundance of data lies at the heart of 21st century discovery.
