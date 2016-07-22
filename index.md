@@ -4,7 +4,7 @@ layout: home
 
 ## Submission System Open!
 
-Contribute to VDS by submitting your abstract [here](https://precisionconference.com/~vds16/) (after logging in go to "new submissions" and select "Submit to Papers" for VDS 2016). For details, see the [Call for Participation]({{ page.url | prepend: site.baseurl }}/cfp/).
+Contribute to VDS by submitting your abstract [here](https://precisionconference.com/~vds16/) (after logging in go to "new submissions" and select "Submit to Abstracts" for VDS 2016). For details, see the [Call for Participation]({{ site.baseurl }}/cfp/).
 
 ## Vision
 
