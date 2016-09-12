@@ -3,30 +3,7 @@ layout: page
 ---
 
 
-{% include invited_talk.html time="8:40-10:10" key="leek" %}
-
-{% include invited_talk.html time="8:40-10:10" key="lucey" %}
-
-{% include invited_talk.html time="8:40-10:10" key="williams" %}
-
-
-
-
 <!-- use talk.position and talk.time -->
-
-<!--
-<h3>Summary</h3>
-
-<h4>Sunday, October 25th, 2015</h4>
-<p>Location: Red</p>
-<div>
-    <div class="sumTime">14:00-17:55</div>
-    <div>
-        <div class="sumContent">Affiliated Tutorial: A Practical Introduction to Data Science in Python </div>
-        <div class="sumDetails">Speaker: Stéfan van der Walt</div>
-    </div>
-</div>
-
 
 <h4>Monday, October 26th, 2015</h4>
 <p>Location: Red</p>
@@ -65,87 +42,54 @@ layout: page
     <div class="sumContent">Poster Reception</div>
 </div>
 <br>
+-->
 
+<span class="time">Monday, October 24th, 2016</span>
+<p>Location: TBD</p>
 
-
-<br />
-
-<h2>VDS</h2>
-<span class="time">Monday, October 26th, 2015</span>
-
-<h3>Session 1: Data Science and Visualization for Scientific Discovery</h3>
+<h3>Session 1: TBD</h3>
 <span class="time">8:30-10:10, Session Chair: Marc Streit </span>
 
 <div class="talk">
     <div class="ttitle">Opening Address</div>
 </div>
 
-{% include invited_talk.html time="8:40-10:10" key="moeller" %}
+{% include invited_talk.html time="8:40-09:20" key="williams" %}
 
-{% include invited_talk.html time="8:40-10:10" key="heer" %}
-
-{% include invited_talk.html time="8:40-10:10" key="chunara" %}
+{% include paper.html time="9:20-09:45" key="1" %}
+{% include paper.html time="9:45-10:10" key="2" %}
 
 <br>
-<h3>Session 2: Health and Spatio-Temporal Data</h3>
-<span class="time">10:30-12:00, Session Chair: Hanspeter Pfister</span>
+<h3>Session 2: TBD</h3>
+<span class="time">10:30-12:10, Session Chair: Daniel Keim</span>
+
+{% include invited_talk.html time="10:30-11:10" key="leek" %}
+
+{% include paper.html time="11:10-11:35" key="3" %}
+{% include paper.html time="11:35-12:00" key="4" %}
+{% include paper.html time="12:00-12:10" key="5" %}
+
+<br>
+<h3>Session 3: TDB</h3>
+<span class="time">2:00-3:40, Session Chair: Alexander Lex</span>
 
 <div class="talk">
-    <div class="ttitle">Panel I: Challenges in Visualization for Data Science</div>
-    <div><span class="tspeaker">Torsten Möller, Jeff Heer, Rumi Chunara</span></div>
+    <div class="ttitle">Panel: Challenges in Visualization for Data Science</div>
+    <div><span class="tspeaker">Jeff Leek, Patrick Lucey, Sarah Williams</span></div>
     <div>Moderator: Hanspeter Pfister</div>
 </div>
 
-
-{% include paper.html time="8:40-10:10" key="5" %}
-{% include paper.html time="8:40-10:10" key="6" %}
-{% include paper.html time="8:40-10:10" key="1" %}
-
+{% include invited_talk.html time="3:00-3:40" key="lucey" %}
 
 <br>
-<h3>Session 3: Journalism, Sports, and Data Exploration</h3>
-<span class="time">2:00-3:30, Session Chair: Alexander Lex</span>
+<h3>Session 4: TBD</h3>
+<span class="time">4:15-5:55, Session Chair: Claudio Silva</span>
 
-{% include invited_talk.html time="8:40-10:10" key="schutt" %}
-
-{% include invited_talk.html time="8:40-10:10" key="bornn" %}
-
-{% include invited_talk.html time="8:40-10:10" key="li" %}
-
-
-<br>
-<h3>Session 4: Databases and Algorithms</h3>
-<span class="time">4:00-5:50, Session Chair: Claudio Silva</span>
-
-<div class="talk">
-    <div class="ttitle">Panel II: Challenges in Visualization for Data Science</div>
-    <div><span class="tspeaker">Rachel Schutt, Luke Bornn, Feifei Li</span></div>
-    <div>Moderator: Claudio Silva</div>
-</div>
-
-{% include paper.html time="8:40-10:10" key="7" %}
-{% include paper.html time="8:40-10:10" key="2" %}
-{% include paper.html time="8:40-10:10" key="3" %}
-{% include paper.html time="8:40-10:10" key="4" %}
+{% include paper.html time="4:15-4:40" key="7" %}
+{% include paper.html time="4:40-4:50" key="2" %}
+{% include paper.html time="4:50-5:00" key="3" %}
+{% include paper.html time="5:00-5:10" key="4" %}
 
 <div class="talk">
     <div class="ttitle">Closing</div>
 </div>
-
-
-<br/>
-<h3>Poster Reception</h3>
-<span class="time">6:00-7:30</span>
-<br/>
-<br/>
-
-{% for poster in site.data.posters %}
-
-<div>
-    <div class="ptitle">{{poster.title}}</div>
-    <div><span class="pauthor">{{poster.authors}}</span></div>
-    <br/>
-</div>
-{% endfor %}
-
--->
