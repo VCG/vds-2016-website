@@ -4,7 +4,7 @@ layout: page
 
 
 <!-- use talk.position and talk.time -->
-
+<!--
 <h4>Monday, October 26th, 2015</h4>
 <p>Location: Red</p>
 <div>
@@ -47,7 +47,7 @@ layout: page
 <span class="time">Monday, October 24th, 2016</span>
 <p>Location: TBD</p>
 
-<h3>Session 1: TBD</h3>
+<h3>Session 1</h3>
 <span class="time">8:30-10:10, Session Chair: Marc Streit </span>
 
 <div class="talk">
@@ -56,39 +56,43 @@ layout: page
 
 {% include invited_talk.html time="8:40-09:20" key="williams" %}
 
-{% include paper.html time="9:20-09:45" key="1" %}
-{% include paper.html time="9:45-10:10" key="2" %}
+{% include paper.html time="9:20-09:45" key="2" %}
+{% include paper.html time="9:45-10:10" key="7" %}
+
+
 
 <br>
-<h3>Session 2: TBD</h3>
+<h3>Session 2</h3>
 <span class="time">10:30-12:10, Session Chair: Daniel Keim</span>
 
 {% include invited_talk.html time="10:30-11:10" key="leek" %}
 
-{% include paper.html time="11:10-11:35" key="3" %}
-{% include paper.html time="11:35-12:00" key="4" %}
-{% include paper.html time="12:00-12:10" key="5" %}
+{% include paper.html time="11:10-11:40" key="6" %}
+{% include paper.html time="11:40-12:10" key="3" %}
 
 <br>
-<h3>Session 3: TDB</h3>
-<span class="time">2:00-3:40, Session Chair: Alexander Lex</span>
+<h3>Session 3</h3>
+<span class="time">2:00-3:40, Session Chair: Hanspeter Pfister</span>
 
 <div class="talk">
-    <div class="ttitle">Panel: Challenges in Visualization for Data Science</div>
+    <div class="ttitle">PANEL: Teaching Data Science and Visualization: What works, what doesn't?</div>
     <div><span class="tspeaker">Jeff Leek, Patrick Lucey, Sarah Williams</span></div>
     <div>Moderator: Hanspeter Pfister</div>
 </div>
 
-{% include invited_talk.html time="3:00-3:40" key="lucey" %}
+{% include paper.html time="3:00-3:25" key="5" %}
+{% include paper.html time="3:25-3:3:40" key="9" %}
 
 <br>
-<h3>Session 4: TBD</h3>
-<span class="time">4:15-5:55, Session Chair: Claudio Silva</span>
+<h3>Session 4</h3>
+<span class="time">4:15-5:55, Session Chair: Alexander Lex</span>
 
-{% include paper.html time="4:15-4:40" key="7" %}
-{% include paper.html time="4:40-4:50" key="2" %}
-{% include paper.html time="4:50-5:00" key="3" %}
-{% include paper.html time="5:00-5:10" key="4" %}
+{% include invited_talk.html time="4:15-4:55" key="lucey" %}
+
+
+{% include paper.html time="4:55-5:10" key="4" %}
+{% include paper.html time="5:10-5:25" key="8" %}
+{% include paper.html time="5:25-5:45" key="1" %}
 
 <div class="talk">
     <div class="ttitle">Closing</div>
