@@ -2,9 +2,13 @@
 layout: home
 ---
 
-## Submission System Open!
+//## Submission System Open!>
 
-Contribute to VDS by submitting your abstract [here](https://precisionconference.com/~vds16/) (after logging in go to "new submissions" and select "Submit to Abstracts" for VDS 2016). For details, see the [Call for Participation]({{ site.baseurl }}/cfp/).
+//Contribute to VDS by submitting your abstract [here](https://precisionconference.com/~vds16/) (after logging in go to "new submissions" and select "Submit to Abstracts" for VDS 2016). For details, see the [Call for Participation]({{ site.baseurl }}/cfp/).
+
+## Program Online!
+
+[Program]({{ site.baseurl }}/program/)
 
 ## Vision
 
