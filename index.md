@@ -2,13 +2,9 @@
 layout: home
 ---
 
-{% ## Submission System Open! %}
-
-{% Contribute to VDS by submitting your abstract [here](https://precisionconference.com/~vds16/) (after logging in go to "new submissions" and select "Submit to Abstracts" for VDS 2016). For details, see the [Call for Participation]({{ site.baseurl }}/cfp/). %}
-
 ## Program Online!
 
-[Program]({{ site.baseurl }}/program/)
+Check out the full [Program]({{ site.baseurl }}/program/) that contains keynote talks, abstract presentations, and a panel.
 
 ## Vision
 
@@ -23,8 +19,6 @@ Visualization is an integral part of data science, and essential to enable sophi
 Please use [contact@visualdatascience.org](mailto:contact@visualdatascience.org) to get in touch with us.
 
 Registration for VDS is included with registration for IEEE VIS and is handled through the [VIS website](http://ieeevis.org/).
-
-
 
 
 ## Chairs
