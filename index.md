@@ -4,7 +4,7 @@ layout: home
 
 ## Program Online!
 
-Check out the full [Program]({{ site.baseurl }}/program/) that contains keynote talks, abstract presentations, and a panel.
+Check out the full [program]({{ site.baseurl }}/program/) that contains keynote talks, abstract presentations, and a panel.
 
 ## Vision
 
